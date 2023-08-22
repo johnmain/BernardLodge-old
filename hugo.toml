@@ -2,8 +2,6 @@ baseURL = ''
 languageCode = 'en-us'
 title = 'Bernard Lodge #225'
 theme = 'holy'
-description = 'Bernard Lodge Website and News'
-author = 'John Main'
 
 enableInlineShortcodes = true
 [menu]
@@ -25,6 +23,10 @@ tag = "tags"
 series = "series"
 [params]
     copyright = "John Main Designs ©"
+    description = 'Bernard Lodge Website and News'
+    
+[Author]
+  name = 'John Main'
 
 [markup.goldmark.renderer]
 unsafe = true
