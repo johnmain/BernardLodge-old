@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'bernardlodge.pages.dev'
 languageCode = 'en-us'
 title = 'Bernard Lodge #225'
 theme = 'holy'
