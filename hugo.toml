@@ -2,6 +2,9 @@ baseURL = ''
 languageCode = 'en-us'
 title = 'Bernard Lodge #225'
 theme = 'holy'
+description = 'Bernard Lodge Website and News'
+author = 'John Main'
+
 enableInlineShortcodes = true
 [menu]
 
