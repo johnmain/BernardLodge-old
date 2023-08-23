@@ -10,6 +10,7 @@
     ">
         <div>
             <strong><a href="/" class="mr-3">
+                <img src="/images/Ontario Masons - Leaf - Colour.png" width="20px" align="left">&nbsp;
               {{ if not .Site.Params.HeaderTitle }}
               {{ .Site.Title }}
               {{ else }}
@@ -25,6 +26,7 @@
             {{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}
             {{ $active = "active" }}
             {{ end }}
+            
             <a class="
                 font:semibold
                 font:fade
@@ -34,7 +36,7 @@
                 transition:150ms;ease-in
                 {{ $active }}
             " href="{{ .URL }}" title="{{ .Title }}">
-                {{- .Name -}}
+            {{- .Name -}}
             </a>
             {{ end }}
         </div>
