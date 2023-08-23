@@ -16,8 +16,8 @@ Visitors from Waterloo District, Bruce District and a couple from aboard joined 
 
 **Back row**
 
-*Placeholder, Placeholder, W. Bro Carl Snider,V.W. Bro Rob Zilles, R.W. Bro Michael Stilwell*
+*Bro. Jack Burns, W. Bro. Randy McLean , W. Bro Carl Snider,V.W. Bro Rob Zilles, R.W. Bro Michael Stilwell*
 
 **Front row**
 
-*R.W. Bro Fred Gregory, Bro Edward Faruzel, R.W. Bro Philip Munroe, R.W. Bro John Main, Place Holder, Place Holder*
+*R.W. Bro Fred Gregory, Bro Edward Faruzel, R.W. Bro Philip Munroe, R.W. Bro John Main, W. Bro. Sundip Patel, Bro Wayne Thompson*
